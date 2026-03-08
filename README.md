@@ -34,3 +34,20 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# Estate Navigator
+
+Estate Navigator is a Next.js + Tailwind project that archives and displays estate maps, streets, and landmarks in a clean, minimalist interface. Built as a modular system, it’s designed to grow into a smart navigation tool with searchable routes and professional UI styling.
+
+## 🚀 Live Demo
+[View on Netlify](https://estate-navigator.netlify.app)
+
+## 📂 Features
+- Estate cards with streets and landmarks
+- Tailwind styling for clean UI
+- JSON data import for modular growth
+
+## 🛠️ Tech Stack
+- Next.js
+- Tailwind CSS
+- TypeScript
