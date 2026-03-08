@@ -1,0 +1,5 @@
+{
+  "estate": "Val de Vie",
+  "streets": [{ "name": "Oak Lane" }, { "name": "River Road" }],
+  "landmarks": [{ "type": "Gate", "name": "Main Gate" }]
+}
