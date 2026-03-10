@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="min-h-screen flex flex-col">
       <Navbar />
-      <main className="flex-grow grid grid-cols-2 gap-6 p-6">
+      <main className="grow grid grid-cols-2 gap-6 p-6">
         <EstateCard name="Val De Vie" />
         <EstateCard name="Ocean View" />
         <EstateCard name="Green Valley" />
